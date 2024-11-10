@@ -5,7 +5,7 @@ echo "Package list updaten..."
 apt update -y
 
 # Upgrade all installed packages
-echo "Alle geïnstalleerde packages upgraden..."
+echo "Alle installed packages upgraden..."
 apt full-upgrade -y
 
 # Remove unnecessary packages
